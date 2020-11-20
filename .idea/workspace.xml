@@ -1,13 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3766846f-825c-45f8-9fb4-3d3686421636" name="Default Changelist" comment="" />
+    <list default="true" id="3766846f-825c-45f8-9fb4-3d3686421636" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jela_svijeta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jela_svijeta.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/one-page-wonder.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -17,6 +55,15 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration">
@@ -126,9 +173,13 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/astrotomic/laravel-translatable" />
     </include_path>
   </component>
   <component name="ProjectId" id="1k72JFBx0Bd8lDdMI8ZCg1YFuQL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -138,6 +189,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -167,10 +219,59 @@
       <option name="presentableId" value="Default" />
       <updated>1605037235364</updated>
       <workItem from="1605037236406" duration="4910000" />
+      <workItem from="1605051316779" duration="746000" />
+      <workItem from="1605160627297" duration="9328000" />
+      <workItem from="1605252996680" duration="601000" />
+      <workItem from="1605371530449" duration="4056000" />
+      <workItem from="1605406676325" duration="1225000" />
+      <workItem from="1605423979943" duration="8605000" />
+      <workItem from="1605523147911" duration="7578000" />
+      <workItem from="1605678548253" duration="5493000" />
+      <workItem from="1605721150910" duration="951000" />
+      <workItem from="1605765098916" duration="599000" />
+      <workItem from="1605854796441" duration="8090000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1658" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605372162488">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1658" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1388@0.0.2560.1388" timestamp="1605372162488" />
+    <state x="1687" y="415" key="NewPhpClassDialog" timestamp="1605174911544">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1687" y="415" key="NewPhpClassDialog/0.0.2560.1388@0.0.2560.1388" timestamp="1605174911544" />
+    <state x="1421" y="329" key="SettingsEditor" timestamp="1605534240597">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1421" y="329" key="SettingsEditor/0.0.2560.1388@0.0.2560.1388" timestamp="1605534240597" />
+    <state x="1341" y="100" width="1119" height="1188" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605865241949">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1341" y="100" width="1119" height="1188" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1388@0.0.2560.1388" timestamp="1605865241949" />
+    <state x="1723" y="609" width="383" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605694431980">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1723" y="609" width="383" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1388@0.0.2560.1388" timestamp="1605694431980" />
+    <state x="1563" y="316" width="672" height="678" key="search.everywhere.popup" timestamp="1605871986103">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1563" y="316" width="672" height="678" key="search.everywhere.popup/0.0.2560.1388@0.0.2560.1388" timestamp="1605871986103" />
   </component>
 </project>
